@@ -16,7 +16,7 @@ img {
 }
 div.top {
   border-bottom: darkgrey solid 2px;
-  height: 64px;
+  height: 70px;
   width: 100%;
   position: fixed;
   top: 0;
@@ -34,7 +34,7 @@ div.ButtonGroup {
 }
 div.content {
   position: relative;
-  top: 64px;
+  top: 70px;
   bottom: 25px;
   left: 0;
   margin: 0;
