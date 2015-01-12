@@ -35,7 +35,7 @@ div.ButtonGroup {
 div.content {
   position: relative;
   top: 64px;
-  bottom: 50px;
+  bottom: 41px;
   left: 0;
   margin: 0;
   padding: 5px;
@@ -65,11 +65,12 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
-  height: 50px;
+  height: 41px;
   padding: 5px;
   margin: 0;
   background-color: AliceBlue;
   z-index: 2;
+  vertical-align: bottom;
 }
 span.license {
   font-size: x-small;
