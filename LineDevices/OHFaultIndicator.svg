@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 12 10.6" width="12px" height="10.6px">
+  
+  <polygon id="main" points="1,5.3 3.5,1 8.5,1 11,5.3 8.5,9.6 3.5,9.6" style="stroke:Navy;stroke-width:1;fill:CornFlowerBlue;"/>
+  
+</svg>

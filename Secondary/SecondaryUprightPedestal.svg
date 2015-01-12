@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 9 14" width="9px" height="14px">
+  
+  <path id="middle" d="M4.5,1 L7.5,5 A3.5 3.5 0 1 1 1.5,5 z" style="stroke:black;stroke-width:1;fill:black;" />
+  
+</svg>

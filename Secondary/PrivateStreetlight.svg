@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 22 22" width="22" height="22">
+  
+  <circle cx="11" cy="11" r="6" style="stroke:chocolate;stroke-width:1;fill:white;" />
+  
+  <path d="M3,3 L19,19 M19,3 L3,19" style="stroke:chocolate;stroke-width:1;" />
+  
+</svg>

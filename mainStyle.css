@@ -1,0 +1,65 @@
+﻿* {
+    box-sizing: border-box;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: AliceBlue;
+}
+/*body {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}*/
+div {
+  float: left;
+  position: relative;
+  clear: both;
+}
+img {
+  vertical-align: middle;
+}
+div.top {
+  border-bottom: darkgrey solid 2px;
+  height: 64px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  clear: both;
+  padding-left: 5px;
+  margin: 0;
+  background-color: AliceBlue;
+  z-index: 2;
+}
+div.ButtonGroup {
+  padding: 5px 1px 5px 1px;
+  min-width: 100%;
+  max-width: 100%;
+}
+div.content {
+  position: relative;
+  top: 64px;
+  left: 0;
+  margin: 0;
+  padding: 5px;
+  height: 100%;
+  width: 100%;
+  clear: left;
+  z-index: 1;
+}
+div.SymbolGroup {
+  
+}
+div.imgDiv {
+  min-height: 62px;
+  margin: 5px;
+  text-align: center;
+}
+span.descSpan {
+  clear: right;
+  text-align: left;
+  margin-left: 20px;
+  height: 100%;
+  vertical-align: middle;
+  display: inline-block;
+}

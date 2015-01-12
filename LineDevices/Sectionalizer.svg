@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 22 22" width="22px" height="22px">
+  
+  <rect id="bg" x="1" y="1" width="20" height="20" rx="2" ry="2" style="stroke:none;fill:grey;"/>
+  
+  <text id="text" x="1.5" y="16" style="font-family:'Arial',sans-serif;font-size:14px;font-style:italic;font-weight:bold;fill:white;">SZ</text>
+  
+</svg>

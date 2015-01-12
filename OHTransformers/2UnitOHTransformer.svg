@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 22 48.6" width="22px" height="48.6px">
+  
+  <polygon id="bg" fill="white" stroke="none"
+    points="1,1 21,1 17.5,7 21,7 11,24.3 1,7 4.5,7" />
+  
+  <polygon id="top" fill="none" stroke="black" stroke-width="1"
+    points="1,1 21,1 17.5,7 4.5,7" />
+  
+  <polygon id="bottom" fill="none" stroke="black" stroke-width="1"
+    points="1,7 4.5,7 17.5,7 21,7 11,24.3" />
+  
+</svg>
