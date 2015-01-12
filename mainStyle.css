@@ -28,7 +28,7 @@ div.top {
   z-index: 2;
 }
 div.ButtonGroup {
-  padding: 5px 1px 5px 1px;
+  padding-top: 5px;
   min-width: 100%;
   max-width: 100%;
   vertical-align: middle;
