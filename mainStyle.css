@@ -31,6 +31,7 @@ div.ButtonGroup {
   padding: 5px 1px 5px 1px;
   min-width: 100%;
   max-width: 100%;
+  vertical-align: middle;
 }
 div.content {
   position: relative;
