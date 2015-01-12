@@ -29,6 +29,7 @@ div.top {
   z-index: 2;
 }
 div.ButtonGroup {
+  position: relative;
   float: left;
   clear: right;
   padding-top: 5px;
@@ -36,7 +37,6 @@ div.ButtonGroup {
   min-width: 300px;
   max-width: 100%;
   vertical-align: middle;
-  display: inline-block;
 }
 div.content {
   position: relative;
