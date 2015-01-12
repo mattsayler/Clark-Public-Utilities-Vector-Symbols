@@ -73,6 +73,6 @@ footer {
   vertical-align: bottom;
   font-size: x-small;
 }
-footer span {
+footer * {
   vertical-align: bottom;
 }
