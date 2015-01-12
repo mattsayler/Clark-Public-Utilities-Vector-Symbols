@@ -22,7 +22,7 @@ div.top {
   top: 0;
   left: 0;
   clear: both;
-  padding-left: 5px;
+  padding: 5px;
   margin: 0;
   background-color: AliceBlue;
   z-index: 2;
