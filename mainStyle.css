@@ -5,7 +5,7 @@ html, body {
   margin: 0;
   padding: 0;
   background-color: AliceBlue;
-    min-width: 300px;
+  min-width: 300px;
 }
 div {
   float: left;
@@ -29,11 +29,14 @@ div.top {
   z-index: 2;
 }
 div.ButtonGroup {
+  float: left;
+  clear: right;
   padding-top: 5px;
   padding-bottom: 5px;
-  min-width: 100%;
+  min-width: 300px;
   max-width: 100%;
   vertical-align: middle;
+  display: inline-block;
 }
 div.content {
   position: relative;
