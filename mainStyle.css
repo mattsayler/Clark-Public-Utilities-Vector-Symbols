@@ -71,3 +71,6 @@ footer {
   background-color: AliceBlue;
   z-index: 2;
 }
+span.license {
+  font-size: smaller;
+}
