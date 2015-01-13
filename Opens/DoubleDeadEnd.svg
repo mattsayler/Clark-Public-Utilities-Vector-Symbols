@@ -8,6 +8,6 @@
   
   <rect id="main" x="3" y="5" width="7" height="2" style="stroke:none;fill:white;"/>
   
-  <polygon id="top" points="1,11 1,10 3,7 10,7 12,10 12,11 10,9 3,9 z" style="stroke:none;fill:black;"/>
+  <polygon id="bottom" points="1,11 1,10 3,7 10,7 12,10 12,11 10,9 3,9 z" style="stroke:none;fill:black;"/>
   
 </svg>
